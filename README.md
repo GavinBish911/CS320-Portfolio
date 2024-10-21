@@ -1,1 +1,11 @@
 # CS320-Repository
+This is my portfolio for CS-320
+
+# How can I ensure that my code, program, or software is functional and secure?
+Ensuring functionality and security in software involves multiple strategies, starting with thorough testing. I use unit tests to verify that individual components of the program function as intended and integration tests to ensure that different modules work well together. Automation plays a crucial role in running these tests efficiently across various environments. For security, it’s essential to follow best practices such as input validation, error handling, and using secure coding techniques to prevent vulnerabilities like injection attacks or data breaches. Continuous testing and code review processes also help identify and fix potential issues early.
+
+# How do I interpret user needs and incorporate them into a program?
+Interpreting user needs begins with a clear understanding of the project requirements and end goals. This often involves breaking down user stories or requirements into specific features that can be coded and tested. I gather feedback through discussions, documentation, and direct communication with stakeholders to clarify any uncertainties. Once I have a firm grasp of the user needs, I translate them into functional requirements and prioritize them to ensure the program aligns with the user’s expectations. Testing these features from the user's perspective also ensures that the program is not just functional, but user-friendly and meets the desired outcome.
+
+# How do I approach designing software?
+When designing software, I start by planning the architecture to ensure that the program is scalable, modular, and easy to maintain. I choose data structures and design patterns that are appropriate for the problem being solved, ensuring that the code is efficient and flexible. Additionally, I focus on creating a clear separation of concerns within the code, using object-oriented principles to break the program into manageable, reusable components. Designing software also involves anticipating future needs, so I aim to build in adaptability where possible, ensuring the program can evolve without requiring a complete overhaul.
